@@ -1,0 +1,12 @@
+tensorflow>=2.10.0
+numpy
+pandas
+matplotlib
+scikit-learn
+fastapi
+uvicorn
+python-multipart
+pillow
+pytest
+httpx
+sqlalchemy
